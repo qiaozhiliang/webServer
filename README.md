@@ -1,5 +1,6 @@
 # webServer
 Linux高并发服务器项目
+
 一、技术框架
   1、线程池 + 非阻塞socket + epoll + 事件处理的并发模型；
   2、有限状态机解析HTTP请求
